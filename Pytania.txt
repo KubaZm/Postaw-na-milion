@@ -1,0 +1,108 @@
+Jakim mianem czesto okresla sie protony i neutrony?
+Nukleonow
+Nuklidow
+Izotopow
+Jader atomowych
+A
+Jak nazywamy czas, po ktorego uplywie w probce pozostala polowa poczatkowej liczby atomow?
+Czas kwartalnego zaniku
+Czas polowicznego rozkladu
+Czas rozpadu
+Sta³a rozpadu
+B
+Moc jest ilorazem pracy oraz...
+Energii
+Sily
+Przemieszczenia
+Czasu
+D
+Jaki przedrostek fizyczny oznacza liczbe 10^3?
+Kilo
+Tera
+Mega
+Giga
+A
+Wspolczynnik trojmianu kwadratowego to inaczej
+Ceta
+Alfa
+Delta
+Gamma
+C
+Zbior argumentow to
+Zbior wartosci funkcji
+Wspolrzedne punktow na wykresie
+Dziedzina funkcji
+os OX
+C
+Wykres funkcji jest rownolegly do osi OX, zatem jest to funkcja
+Malejaca
+Stala
+Rosnaca
+Nie wiadomo
+B
+Trojkat w ktorym boki maja dlugosci 7 cm, 3 cm, 7cm to trojkat:
+Rownoboczny, ostrokatny
+Rownoramienny
+Rozwartokatny roznoboczny
+prostokatny
+B
+Liczba 12009 jest podzielna przez
+9
+5
+2
+3
+D
+Co oznacza inkrementacja?
+Tworzenie petli
+Przejscie do nowej linii
+Zwiekszanie liczby o 1
+Deklaracje bibliotek
+C
+Jaki jest typ funkcji, ktora nic nie zwraca?
+void
+int
+float
+double
+A
+Jakie zwierze znajduje sie w Logo Linuxa?
+Lew
+Chomik
+Pingwin
+Wrobel
+C
+Ile megabajtow ma gigabajt?
+512
+1000
+1024
+1000000
+C
+Justowaniem tekstu nazywamy:
+Wyrownywanie dwustronne tekstu
+Ustawienie tekstu na srodku
+Wyrownanie tekstu do lewej
+Wyrownanie tekstu do prawej
+A
+Kto byl pierwszym czlowiekiem w kosmosie?
+Wladimir Szatalow
+Jurij Aleksiejewicz Gagarin
+Piotr Klimuk
+Wladimir Dzanibekow
+B
+Autorem prawa powszechnego ciazenia jest?
+Mikolaj Kopernik
+Sokrates
+Johannes Kepler
+Izaak Newton
+D
+Od czego zalezy wartosc sily tarcia?
+Od wartosci sily nacisku
+Od cisnienia
+Od gestosci
+Od pola powierzchni
+A
+Barometr moze miec podzialke wyrazona w:
+Stopniach Celsjusza
+Hektopaskalach
+Metrach na sekunde
+Niutonach
+B
